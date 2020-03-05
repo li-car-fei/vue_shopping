@@ -1,0 +1,109 @@
+
+.cart[data-v-c7dd8b8c]{
+    margin: 32px;
+    background: #fff;
+    border: 1px solid #dddee1;
+    border-radius: 10px;
+}
+.cart-header-title[data-v-c7dd8b8c]{
+    padding: 16px 32px;
+    border-bottom: 1px solid #dddee1;
+    border-radius: 10px 10px 0 0;
+    background: #f8f8f9;
+}
+.cart-header-main[data-v-c7dd8b8c]{
+    padding: 8px 32px;
+    overflow: hidden;
+    border-bottom: 1px solid #dddee1;
+    background: #eee;
+    overflow: hidden;
+}
+.cart-empty[data-v-c7dd8b8c]{
+    text-align: center;
+    padding: 32px;
+}
+.cart-header-main div[data-v-c7dd8b8c]{
+    text-align: center;
+    float: left;
+    font-size: 14px;
+}
+div.cart-info[data-v-c7dd8b8c]{
+    width: 60%;
+    text-align: left;
+}
+.cart-price[data-v-c7dd8b8c]{
+    width: 10%;
+}
+.cart-count[data-v-c7dd8b8c]{
+    width: 10%;
+}
+.cart-cost[data-v-c7dd8b8c]{
+    width: 10%;
+}
+.cart-delete[data-v-c7dd8b8c] {
+    width: 10%;
+}
+.cart-content-main[data-v-c7dd8b8c]{
+    padding: 0 32px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    border-bottom: 1px dashed #e9eaec;
+    overflow: hidden;
+}
+.cart-content-main div[data-v-c7dd8b8c]{
+    float: left;
+}
+.cart-content-main img[data-v-c7dd8b8c]{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    top: 10px;
+}
+.cart-control-minus[data-v-c7dd8b8c],
+.cart-control-add[data-v-c7dd8b8c]{
+    display: inline-block;
+    margin: 0 4px;
+    width: 24px;
+    height: 24px;
+    line-height: 22px;
+    text-align: center;
+    background: #f8f8f9;
+    border-radius: 50%;
+    box-shadow: 0 1px 1px rgba(0,0,0,.2);
+    cursor: pointer;
+}
+.cart-control-delete[data-v-c7dd8b8c]{
+    cursor: pointer;
+    color: #2d8cf0;
+}
+.cart-promotion[data-v-c7dd8b8c]{
+    padding: 16px 32px;
+}
+.cart-control-promotion[data-v-c7dd8b8c],
+.cart-control-order[data-v-c7dd8b8c]{
+    display: inline-block;
+    padding: 8px 32px;
+    border-radius: 6px;
+    background: #2d8cf0;
+    color: #fff;
+    cursor: pointer;
+}
+.cart-control-promotion[data-v-c7dd8b8c]{
+    padding: 2px 6px;
+    font-size: 12px;
+    border-radius: 3px;
+}
+.cart-footer[data-v-c7dd8b8c]{
+    padding: 32px;
+    text-align: right;
+}
+.cart-footer-desc[data-v-c7dd8b8c]{
+    display: inline-block;
+    padding: 0 16px;
+}
+.cart-footer-desc span[data-v-c7dd8b8c]{
+    color: #f2352e;
+    font-size: 20px;
+}
+

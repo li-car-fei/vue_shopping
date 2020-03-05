@@ -1,0 +1,106 @@
+
+.product[data-v-5ca52776]{
+    margin: 82px 82px 62px ;
+    padding: 32px;
+    background: rgb(230, 221, 221);
+    border: 1px solid #dddee1;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.product-image[data-v-5ca52776]{
+    width: 40%;
+    height: 250px;
+    float: left;
+    text-align: center;
+}
+.product-image img[data-v-5ca52776]{
+    height: 100%;
+}
+.product-info[data-v-5ca52776]{
+    width: 40%;
+    padding: 50px 0 30px;
+    height: 50px;
+    float: left;
+    text-align: center;
+}
+.product-cost[data-v-5ca52776]{
+    color: #f2352e;
+    margin: 8px 0;
+}
+.product-add-cart[data-v-5ca52776]{
+    display: inline-block;
+    padding: 8px 64px;
+    margin: 8px 0;
+    background: #2d8cf0;
+    color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.product-desc[data-v-5ca52776]{
+    background: rgb(230, 221, 221);
+    margin: 82px 82px 62px;
+    padding: 32px;
+    border: 1px solid #dddee1;
+    border-radius: 10px;
+    text-align: center;
+}
+.product-desc img[data-v-5ca52776]{
+    display: block;
+    width: 50%;
+    height: 50%;
+    margin: 32px auto;
+    padding: 32px;
+    border-bottom: 1px solid #dddee1;
+}
+.product-comments[data-v-5ca52776]{
+    background: rgb(230, 221, 221);
+    margin: 82px 82px 62px;
+    padding: 32px;
+    border: 1px solid #dddee1;
+    border-radius: 10px;
+}
+.comments[data-v-5ca52776]{
+    padding: 12px 12px 10px 10px;
+    margin-bottom: 15px;
+    border: 1.5px solid rgb(175, 62, 77);
+    border-radius: 12px;
+}
+.comments-username[data-v-5ca52776]{
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+.comments-content[data-v-5ca52776]{
+    font-size: 16px;
+    font-weight: 500;
+    margin-left: 40px;
+}
+.user-comment[data-v-5ca52776]{
+    text-align: center;
+    width: 60%;
+    padding:28px;
+}
+.user-comment-content[data-v-5ca52776]{
+    width: 600px;
+    height: 60px;
+    font-size: 18px;
+    border: 1px solid rgb(175, 62, 77);
+    border-radius: 10px;
+}
+.user-comment-submit[data-v-5ca52776]{
+    margin-left: 20px;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 18px;
+    color: #fff;
+    font-size: 18px;
+    background: rgb(100, 69, 100);
+    transition: 0.5s;
+}
+.user-comment-submit[data-v-5ca52776]:hover{
+    background: rgb(192, 22, 192)
+}
+
+
