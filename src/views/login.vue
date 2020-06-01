@@ -58,6 +58,7 @@
                     //直接commit触发mutations
                     this.$store.commit('getUser', this.username);
                     window.alert('注册成功，确定进入网站首页');
+                    //直接修改href
                     window.location.href = '/list';
                 }
             },
